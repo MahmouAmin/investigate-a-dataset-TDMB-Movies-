@@ -9,7 +9,7 @@ The first step is the Data Wrangling: cleaning the dataset and prepare it to the
 
 The next step is make visualization.
 
-# research questions were asked :
+## research questions were asked :
 
 - Understand did runtime of movies has changed over years.
 - Understand Which genres are most popular ?
