@@ -1,7 +1,7 @@
 # investigate a dataset TDMB Movies
 > Udacity Data Analytics Nanodegree
 
-[Click to preview](https://github.com/MahmouAmin/investigate-a-dataset-TDMB-Movies-/blob/main/investigate-a-dataset-template.html)
+[Click to preview](https://github.com/MahmouAmin/investigate-a-dataset-TDMB-Movies-/blob/main/investigate-a-dataset-template.ipynb)
 
 The project is the analysis of TMDB movies dataset in order to discover what can influence the rating of a movie, what properties are associated with high revenues movies, and what is the relationship between the budget and revenue.
 
